@@ -1,8 +1,14 @@
 # <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+Student Name: Rohit Chaudhry
+Student Id: 8680339
+Course : Computer Application Development
+Course Id: 0066
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+I have created the basic chatboard where anyone can start with texting 'Hi' and then reply with the options available in CapsLock letters.
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
+You need to clone the project and then install all the dependencies using 'npm install' and then start the chatboard with command 'npm init'.
 
+
+Thank You,
+Rohit Chaudhry.
