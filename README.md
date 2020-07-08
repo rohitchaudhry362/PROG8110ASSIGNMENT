@@ -1,4 +1,4 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+es6-twilio-chatbot
 
 Student Name: Rohit Chaudhry
 Student Id: 8680339
